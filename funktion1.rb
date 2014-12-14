@@ -8,3 +8,5 @@ puts "mata in två värden"
 var2 = gets.to_i
 
 puts funk(var1,var2)
+
+puts 'hej'
